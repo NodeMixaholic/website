@@ -14,7 +14,10 @@ wpaicg_conclusion_title_tag:
 
 ---
 
+
 ## Hello, world!
+
+![Stanley on the computer.](wp-content/uploads/2023/02/stanley-on-pc.png)
 
       Hello! My professional pseudonym is Samuel Lord, but you can just call me NodeMixaholic or Sparkasmmy. This is my blog. I am a privacy and tech fan, who loves to go on vacations. My favorite web browser is Firefox, although I think Microsoft Edge is alright. Same applies to GNU/Linux and Windows respectively. Enjoy your day. Peace!
 

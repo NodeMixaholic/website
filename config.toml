@@ -12,4 +12,5 @@ copyright = "Samuel Lord"
     languageName = "USA English 🇺🇸"
     LanguageCode = "en-US"
     [languages.en.params]
+        blogPath = "/posts"
         madeWith = "All rights reserved."
