@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://sparksammy.com/'
 languageCode = 'en-us'
 title = 'sparkSammy.com'
 theme = 'hugo-bearcub'
