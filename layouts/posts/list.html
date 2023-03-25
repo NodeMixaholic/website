@@ -1,0 +1,23 @@
+<head>
+<title>sparkSammy.com - Posts</title>
+<link href="/style.min.css" rel="stylesheet">
+<link href="/syntax.min.css" rel="stylesheet">
+</head>
+<body>
+<ul>
+<li><a href="/posts">Blog</a></li>
+<li><a href="https://coindrop.to/nodemixaholic">Support me</a></li>
+<li><a href="/merch">Merch</a></li>
+<li><a href="https://github.com/nodemixaholic">GitHub</a></li>
+<li><a href="https://tiktok.com/@deepfake621">TikTok</a></li>
+<li><a href="https://youtube.com/@nodemixaholic">YouTube</a></li>
+</ul>
+
+
+<h1>Posts</h1>
+{{ range .Pages }}
+
+	<a href="{{ .Permalink }}">{{.Date}} - {{ .Title }}</a></br>
+
+{{ end }}
+</body>

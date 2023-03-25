@@ -1,0 +1,15 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'sparkSammy.com'
+theme = 'hugo-bearcub'
+madeWith = ""
+copyright = "Samuel Lord"
+[author]
+  name = "sam_lord"
+
+[languages]
+  [languages.en]
+    languageName = "USA English 🇺🇸"
+    LanguageCode = "en-US"
+    [languages.en.params]
+        madeWith = "All rights reserved."
